@@ -10,5 +10,6 @@ with open('Heroes.json', 'r', encoding='utf-8') as f:
 df = pd.DataFrame.from_dict(data, orient='index')
 
 # Просмотр основных сведений о датасете
-print(df.info())
-print(df.head())
+df_filtered = df[['id', 'localized_name']]
+print(df_filtered.head())
+print(df.columns.tolist())
