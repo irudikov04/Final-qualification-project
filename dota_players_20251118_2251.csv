@@ -1,4 +1,4 @@
-match_id, player_slot, account_id, hero_id, kills, deaths, assists, gold_per_min, xp_per_min, last_hits, denies, hero_damage, tower_damage, hero_healing, level, net_worth, item_0, item_1, item_2, item_3, item_4, item_5, backpack_0, backpack_1, backpack_2, team
+match_id,player_slot,account_id,hero_id,kills,deaths,assists,gold_per_min,xp_per_min,last_hits,denies,hero_damage,tower_damage,hero_healing,level,net_worth,item_0,item_1,item_2,item_3,item_4,item_5,backpack_0,backpack_1,backpack_2,team
 8565550009,0,,48,5,3,4,505,464,55,8,6783,2058,0,10,7297,63,60,34,11,172,23,0,0,0,radiant
 8565550009,1,,7,0,0,1,426,424,73,9,1470,645,0,10,6155,1,77,11,180,44,0,0,0,0,radiant
 8565550009,2,191874373,136,8,5,1,559,606,60,8,10145,1871,0,12,8077,149,11,73,50,265,36,41,0,0,radiant

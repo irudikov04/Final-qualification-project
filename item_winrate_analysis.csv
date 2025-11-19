@@ -1,0 +1,253 @@
+item_name,total_purchases,wins,item_cost,winrate,winrate_pct,display_name,cost_category,qual
+magic_wand,9045,4572,450,50.55,50.55%,Magic Wand,Дешевые (≤500),common
+blink,8869,4407,2250,49.69,49.69%,Blink Dagger,Дорогие (1501-3000),component
+ultimate_scepter,8386,4243,4200,50.6,50.6%,Aghanim's Scepter,Очень дорогие (>3000),rare
+power_treads,8317,4183,1400,50.29,50.29%,Power Treads,Средние (501-1500),common
+arcane_boots,6479,3271,1400,50.49,50.49%,Arcane Boots,Средние (501-1500),rare
+black_king_bar,6157,3067,4050,49.81,49.81%,Black King Bar,Очень дорогие (>3000),epic
+phase_boots,4612,2308,1500,50.04,50.04%,Phase Boots,Средние (501-1500),common
+bracer,3263,1664,505,51.0,51.0%,Bracer,Средние (501-1500),common
+glimmer_cape,3007,1484,2150,49.35,49.35%,Glimmer Cape,Дорогие (1501-3000),rare
+manta,2814,1423,4650,50.57,50.57%,Manta Style,Очень дорогие (>3000),epic
+null_talisman,2777,1351,505,48.65,48.65%,Null Talisman,Средние (501-1500),common
+ward_dispenser,2700,1321,50,48.93,48.93%,Observer and Sentry Wards,Дешевые (≤500),consumable;laning
+dust,2699,1335,80,49.46,49.46%,Dust of Appearance,Дешевые (≤500),consumable
+aether_lens,2636,1327,2275,50.34,50.34%,Aether Lens,Дорогие (1501-3000),rare
+blade_mail,2389,1200,2300,50.23,50.23%,Blade Mail,Дорогие (1501-3000),epic
+tranquil_boots,2285,1114,900,48.75,48.75%,Tranquil Boots,Средние (501-1500),rare
+cyclone,2025,1043,2600,51.51,51.51%,Eul's Scepter of Divinity,Дорогие (1501-3000),rare
+greater_crit,1851,939,5100,50.73,50.73%,Daedalus,Очень дорогие (>3000),epic
+hurricane_pike,1792,926,4450,51.67,51.67%,Hurricane Pike,Очень дорогие (>3000),epic
+travel_boots,1779,868,2500,48.79,48.79%,Boots of Travel,Дорогие (1501-3000),common
+bottle,1778,867,675,48.76,48.76%,Bottle,Средние (501-1500),common
+wraith_band,1699,869,505,51.15,51.15%,Wraith Band,Средние (501-1500),common
+bfury,1689,841,3900,49.79,49.79%,Battle Fury,Очень дорогие (>3000),epic
+quelling_blade,1667,792,100,47.51,47.51%,Quelling Blade,Дешевые (≤500),component
+force_staff,1611,799,2200,49.6,49.6%,Force Staff,Дорогие (1501-3000),rare
+butterfly,1566,805,5450,51.4,51.4%,Butterfly,Очень дорогие (>3000),epic
+smoke_of_deceit,1548,787,50,50.84,50.84%,Smoke of Deceit,Дешевые (≤500),consumable
+ward_sentry,1535,724,50,47.17,47.17%,Sentry Ward,Дешевые (≤500),consumable
+boots,1508,744,500,49.34,49.34%,Boots of Speed,Дешевые (≤500),component
+branches,1469,747,50,50.85,50.85%,Iron Branch,Дешевые (≤500),consumable
+desolator,1410,752,3500,53.33,53.33%,Desolator,Очень дорогие (>3000),artifact
+magic_stick,1394,670,200,48.06,48.06%,Magic Stick,Дешевые (≤500),component
+ogre_axe,1391,667,1000,47.95,47.95%,Ogre Axe,Средние (501-1500),component
+mjollnir,1356,677,5500,49.93,49.93%,Mjollnir,Очень дорогие (>3000),artifact
+kaya_and_sange,1301,645,4200,49.58,49.58%,Kaya and Sange,Очень дорогие (>3000),artifact
+spirit_vessel,1219,637,2725,52.26,52.26%,Spirit Vessel,Дорогие (1501-3000),rare
+monkey_king_bar,1217,605,4700,49.71,49.71%,Monkey King Bar,Очень дорогие (>3000),epic
+hand_of_midas,1197,573,2200,47.87,47.87%,Hand of Midas,Дорогие (1501-3000),common
+radiance,1184,575,4700,48.56,48.56%,Radiance,Очень дорогие (>3000),epic
+shivas_guard,1114,549,5175,49.28,49.28%,Shiva's Guard,Очень дорогие (>3000),epic
+octarine_core,1034,546,4800,52.8,52.8%,Octarine Core,Очень дорогие (>3000),rare
+soul_ring,1029,516,805,50.15,50.15%,Soul Ring,Средние (501-1500),common
+yasha_and_kaya,1000,507,4200,50.7,50.7%,Yasha and Kaya,Очень дорогие (>3000),artifact
+maelstrom,987,499,2950,50.56,50.56%,Maelstrom,Дорогие (1501-3000),artifact
+ward_observer,980,470,0,47.96,47.96%,Observer Ward,Бесплатные,consumable
+sange_and_yasha,940,471,4200,50.11,50.11%,Sange and Yasha,Очень дорогие (>3000),artifact
+satanic,940,478,5050,50.85,50.85%,Satanic,Очень дорогие (>3000),artifact
+wind_lace,928,468,225,50.43,50.43%,Wind Lace,Дешевые (≤500),component
+ghost,920,465,1500,50.54,50.54%,Ghost Scepter,Средние (501-1500),component
+abyssal_blade,918,443,6250,48.26,48.26%,Abyssal Blade,Очень дорогие (>3000),epic
+sheepstick,910,453,5200,49.78,49.78%,Scythe of Vyse,Очень дорогие (>3000),rare
+lotus_orb,910,462,3850,50.77,50.77%,Lotus Orb,Очень дорогие (>3000),epic
+sphere,909,432,4800,47.52,47.52%,Linken's Sphere,Очень дорогие (>3000),epic
+bloodthorn,900,453,6625,50.33,50.33%,Bloodthorn,Очень дорогие (>3000),epic
+kaya,892,447,2100,50.11,50.11%,Kaya,Дорогие (1501-3000),epic
+orchid,881,449,3275,50.96,50.96%,Orchid Malevolence,Очень дорогие (>3000),rare
+ethereal_blade,876,438,5375,50.0,50.0%,Ethereal Blade,Очень дорогие (>3000),epic
+lesser_crit,875,453,2000,51.77,51.77%,Crystalys,Дорогие (1501-3000),epic
+staff_of_wizardry,874,435,1000,49.77,49.77%,Staff of Wizardry,Средние (501-1500),component
+basher,874,458,2875,52.4,52.4%,Skull Basher,Дорогие (1501-3000),epic
+refresher,838,429,5000,51.19,51.19%,Refresher Orb,Очень дорогие (>3000),rare
+famango,836,462,0,55.26,55.26%,Healing Lotus,Бесплатные,consumable
+skadi,835,424,5900,50.78,50.78%,Eye of Skadi,Очень дорогие (>3000),artifact
+diffusal_blade,791,379,2500,47.91,47.91%,Diffusal Blade,Дорогие (1501-3000),artifact
+assault,769,393,5125,51.11,51.11%,Assault Cuirass,Очень дорогие (>3000),epic
+heart,763,374,5200,49.02,49.02%,Heart of Tarrasque,Очень дорогие (>3000),epic
+pipe,720,362,3725,50.28,50.28%,Pipe of Insight,Очень дорогие (>3000),rare
+rod_of_atos,714,344,2250,48.18,48.18%,Rod of Atos,Дорогие (1501-3000),rare
+guardian_greaves,706,374,5050,52.97,52.97%,Guardian Greaves,Очень дорогие (>3000),rare
+dragon_lance,703,387,1900,55.05,55.05%,Dragon Lance,Дорогие (1501-3000),artifact
+point_booster,678,334,1200,49.26,49.26%,Point Booster,Средние (501-1500),secret_shop
+clarity,659,315,50,47.8,47.8%,Clarity,Дешевые (≤500),consumable
+mask_of_madness,657,339,1900,51.6,51.6%,Mask of Madness,Дорогие (1501-3000),artifact
+invis_sword,656,339,3350,51.68,51.68%,Shadow Blade,Очень дорогие (>3000),epic
+witch_blade,644,327,2775,50.78,50.78%,Witch Blade,Дорогие (1501-3000),common
+falcon_blade,610,315,1125,51.64,51.64%,Falcon Blade,Средние (501-1500),rare
+harpoon,565,275,4700,48.67,48.67%,Harpoon,Очень дорогие (>3000),
+echo_sabre,551,273,2700,49.55,49.55%,Echo Sabre,Дорогие (1501-3000),artifact
+greater_famango,505,286,0,56.63,56.63%,Greater Healing Lotus,Бесплатные,consumable
+lifesteal,503,258,900,51.29,51.29%,Morbid Mask,Средние (501-1500),component
+silver_edge,483,269,5800,55.69,55.69%,Silver Edge,Очень дорогие (>3000),epic
+mithril_hammer,471,211,1600,44.8,44.8%,Mithril Hammer,Дорогие (1501-3000),component
+aeon_disk,464,222,3000,47.84,47.84%,Aeon Disk,Дорогие (1501-3000),epic
+armlet,453,219,2500,48.34,48.34%,Armlet of Mordiggian,Дорогие (1501-3000),epic
+nullifier,452,236,4375,52.21,52.21%,Nullifier,Очень дорогие (>3000),epic
+gungir,439,236,4550,53.76,53.76%,Gleipnir,Очень дорогие (>3000),artifact
+circlet,435,232,155,53.33,53.33%,Circlet,Дешевые (≤500),component
+eternal_shroud,428,199,3700,46.5,46.5%,Eternal Shroud,Очень дорогие (>3000),epic
+great_famango,419,238,0,56.8,56.8%,Great Healing Lotus,Бесплатные,consumable
+solar_crest,413,212,2575,51.33,51.33%,Solar Crest,Дорогие (1501-3000),rare
+blade_of_alacrity,408,197,1000,48.28,48.28%,Blade of Alacrity,Средние (501-1500),component
+dagon_5,396,194,7450,48.99,48.99%,Dagon,Очень дорогие (>3000),rare
+tango,381,171,90,44.88,44.88%,Tango,Дешевые (≤500),consumable
+swift_blink,371,200,6800,53.91,53.91%,Swift Blink,Очень дорогие (>3000),component
+vladmir,359,163,2200,45.4,45.4%,Vladmir's Offering,Дорогие (1501-3000),rare
+urn_of_shadows,355,183,825,51.55,51.55%,Urn of Shadows,Средние (501-1500),rare
+phylactery,344,179,2500,52.03,52.03%,Phylactery,Дорогие (1501-3000),common
+veil_of_discord,340,164,1725,48.24,48.24%,Veil of Discord,Дорогие (1501-3000),rare
+devastator,333,168,5975,50.45,50.45%,Parasma,Очень дорогие (>3000),rare
+orb_of_frost,320,146,300,45.62,45.62%,Orb of Frost,Дешевые (≤500),rare
+blight_stone,309,147,300,47.57,47.57%,Orb of Blight,Дешевые (≤500),component
+orb_of_corrosion,306,151,1050,49.35,49.35%,Orb of Corrosion,Средние (501-1500),rare
+platemail,297,134,1400,45.12,45.12%,Platemail,Средние (501-1500),secret_shop
+enchanted_mango,288,138,65,47.92,47.92%,Enchanted Mango,Дешевые (≤500),consumable
+roshans_banner,282,136,0,48.23,48.23%,Roshan's Banner,Бесплатные,artifact
+crimson_guard,279,130,3725,46.59,46.59%,Crimson Guard,Очень дорогие (>3000),epic
+holy_locket,277,147,2250,53.07,53.07%,Holy Locket,Дорогие (1501-3000),rare
+pers,275,135,1400,49.09,49.09%,Perseverance,Средние (501-1500),common
+yasha,272,126,2100,46.32,46.32%,Yasha,Дорогие (1501-3000),artifact
+aegis,270,149,0,55.19,55.19%,Aegis of the Immortal,Бесплатные,artifact
+mekansm,263,135,1775,51.33,51.33%,Mekansm,Дорогие (1501-3000),rare
+meteor_hammer,259,132,2850,50.97,50.97%,Meteor Hammer,Дорогие (1501-3000),epic
+wind_waker,258,121,6800,46.9,46.9%,Wind Waker,Очень дорогие (>3000),rare
+cloak,253,110,800,43.48,43.48%,Cloak,Средние (501-1500),component
+disperser,242,114,6100,47.11,47.11%,Disperser,Очень дорогие (>3000),artifact
+javelin,241,118,900,48.96,48.96%,Javelin,Средние (501-1500),component
+mage_slayer,239,120,2800,50.21,50.21%,Mage Slayer,Дорогие (1501-3000),rare
+vanguard,237,116,1700,48.95,48.95%,Vanguard,Дорогие (1501-3000),epic
+gauntlets,229,111,140,48.47,48.47%,Gauntlets of Strength,Дешевые (≤500),component
+ancient_janggo,229,109,1625,47.6,47.6%,Drum of Endurance,Дорогие (1501-3000),rare
+boots_of_bearing,228,123,4225,53.95,53.95%,Boots of Bearing,Очень дорогие (>3000),rare
+moon_shard,222,113,4000,50.9,50.9%,Moon Shard,Очень дорогие (>3000),consumable
+gem,221,122,900,55.2,55.2%,Gem of True Sight,Средние (501-1500),component
+void_stone,221,102,700,46.15,46.15%,Void Stone,Средние (501-1500),component
+overwhelming_blink,212,113,6800,53.3,53.3%,Overwhelming Blink,Очень дорогие (>3000),component
+hyperstone,211,109,2000,51.66,51.66%,Hyperstone,Дорогие (1501-3000),secret_shop
+tiara_of_selemene,207,124,1800,59.9,59.9%,Tiara of Selemene,Дорогие (1501-3000),component
+claymore,202,97,1350,48.02,48.02%,Claymore,Средние (501-1500),component
+blood_grenade,195,98,50,50.26,50.26%,Blood Grenade,Дешевые (≤500),consumable
+ring_of_protection,193,93,175,48.19,48.19%,Ring of Protection,Дешевые (≤500),component
+heavens_halberd,192,102,2600,53.12,53.12%,Heaven's Halberd,Дорогие (1501-3000),artifact
+angels_demise,184,94,5600,51.09,51.09%,Khanda,Очень дорогие (>3000),common
+buckler,177,89,425,50.28,50.28%,Buckler,Дешевые (≤500),rare
+ultimate_orb,173,75,2800,43.35,43.35%,Ultimate Orb,Дорогие (1501-3000),secret_shop
+ring_of_tarrasque,167,89,1800,53.29,53.29%,Ring of Tarrasque,Дорогие (1501-3000),component
+blitz_knuckles,163,99,1000,60.74,60.74%,Blitz Knuckles,Средние (501-1500),component
+travel_boots_2,161,71,4500,44.1,44.1%,Boots of Travel 2,Очень дорогие (>3000),common
+revenants_brooch,156,79,3300,50.64,50.64%,Revenant's Brooch,Очень дорогие (>3000),rare
+infused_raindrop,154,73,225,47.4,47.4%,Infused Raindrops,Дешевые (≤500),component
+bloodstone,144,66,4400,45.83,45.83%,Bloodstone,Очень дорогие (>3000),epic
+cornucopia,143,78,1200,54.55,54.55%,Cornucopia,Средние (501-1500),common
+energy_booster,143,80,800,55.94,55.94%,Energy Booster,Средние (501-1500),secret_shop
+dagon,141,73,2850,51.77,51.77%,Dagon,Дорогие (1501-3000),rare
+eagle,140,66,2800,47.14,47.14%,Eaglesong,Дорогие (1501-3000),secret_shop
+diadem,140,57,1000,40.71,40.71%,Diadem,Средние (501-1500),component
+sange,133,67,2100,50.38,50.38%,Sange,Дорогие (1501-3000),artifact
+reaver,131,69,2800,52.67,52.67%,Reaver,Дорогие (1501-3000),secret_shop
+fluffy_hat,128,66,250,51.56,51.56%,Fluffy Hat,Дешевые (≤500),secret_shop
+mystic_staff,128,65,2800,50.78,50.78%,Mystic Staff,Дорогие (1501-3000),secret_shop
+belt_of_strength,127,61,450,48.03,48.03%,Belt of Strength,Дешевые (≤500),component
+vitality_booster,124,67,1000,54.03,54.03%,Vitality Booster,Средние (501-1500),secret_shop
+headdress,123,59,425,47.97,47.97%,Headdress,Дешевые (≤500),rare
+rapier,119,68,5600,57.14,57.14%,Divine Rapier,Очень дорогие (>3000),epic
+flask,112,51,100,45.54,45.54%,Healing Salve,Дешевые (≤500),consumable
+demon_edge,103,56,2200,54.37,54.37%,Demon Edge,Дорогие (1501-3000),secret_shop
+shadow_amulet,91,40,1000,43.96,43.96%,Shadow Amulet,Средние (501-1500),
+sobi_mask,86,45,175,52.33,52.33%,Sage's Mask,Дешевые (≤500),component
+broadsword,86,40,1000,46.51,46.51%,Broadsword,Средние (501-1500),component
+talisman_of_evasion,86,50,1300,58.14,58.14%,Talisman of Evasion,Средние (501-1500),secret_shop
+helm_of_iron_will,84,41,975,48.81,48.81%,Helm of Iron Will,Средние (501-1500),component
+grisgris,84,49,0,58.33,58.33%,Gris-Gris,Бесплатные,
+helm_of_the_dominator,83,37,2550,44.58,44.58%,Helm of the Dominator,Дорогие (1501-3000),artifact
+arcane_blink,80,32,6800,40.0,40.0%,Arcane Blink,Очень дорогие (>3000),component
+recipe_refresher,79,39,200,49.37,49.37%,Refresher Orb Recipe,Дешевые (≤500),
+dagon_3,78,37,5150,47.44,47.44%,Dagon,Очень дорогие (>3000),rare
+gloves,77,34,450,44.16,44.16%,Gloves of Haste,Дешевые (≤500),component
+mantle,76,40,140,52.63,52.63%,Mantle of Intelligence,Дешевые (≤500),component
+voodoo_mask,75,39,700,52.0,52.0%,Voodoo Mask,Средние (501-1500),component
+oblivion_staff,75,34,1625,45.33,45.33%,Oblivion Staff,Дорогие (1501-3000),common
+orb_of_venom,75,39,350,52.0,52.0%,Orb of Venom,Дешевые (≤500),component
+helm_of_the_overlord,72,35,5650,48.61,48.61%,Helm of the Overlord,Очень дорогие (>3000),artifact
+chainmail,70,25,550,35.71,35.71%,Chainmail,Средние (501-1500),component
+ring_of_health,68,26,700,38.24,38.24%,Ring of Health,Средние (501-1500),component
+faerie_fire,67,30,65,44.78,44.78%,Faerie Fire,Дешевые (≤500),consumable
+ring_of_basilius,67,33,425,49.25,49.25%,Ring of Basilius,Дешевые (≤500),rare
+dagon_2,64,35,4000,54.69,54.69%,Dagon,Очень дорогие (>3000),rare
+recipe_sheepstick,64,28,600,43.75,43.75%,Scythe of Vyse Recipe,Средние (501-1500),
+cheese,58,28,1000,48.28,48.28%,Cheese,Средние (501-1500),consumable
+dagon_4,57,39,6300,68.42,68.42%,Dagon,Очень дорогие (>3000),rare
+recipe_sphere,55,26,600,47.27,47.27%,Linken's Sphere Recipe,Средние (501-1500),
+robe,54,25,450,46.3,46.3%,Robe of the Magi,Дешевые (≤500),component
+soul_booster,50,26,3000,52.0,52.0%,Soul Booster,Дорогие (1501-3000),epic
+slippers,47,21,140,44.68,44.68%,Slippers of Agility,Дешевые (≤500),component
+recipe_greater_crit,45,29,900,64.44,64.44%,Daedalus Recipe,Средние (501-1500),
+recipe_heart,45,27,600,60.0,60.0%,Heart of Tarrasque Recipe,Средние (501-1500),
+boots_of_elves,45,21,450,46.67,46.67%,Band of Elvenskin,Дешевые (≤500),component
+blades_of_attack,38,21,450,55.26,55.26%,Blades of Attack,Дешевые (≤500),component
+recipe_monkey_king_bar,38,20,600,52.63,52.63%,Monkey King Bar Recipe,Средние (501-1500),
+recipe_lotus_orb,38,21,250,55.26,55.26%,Lotus Orb Recipe,Дешевые (≤500),
+recipe_aether_lens,37,15,775,40.54,40.54%,Aether Lens Recipe,Средние (501-1500),
+crown,37,23,450,62.16,62.16%,Crown,Дешевые (≤500),component
+refresher_shard,34,19,1000,55.88,55.88%,Refresher Shard,Средние (501-1500),consumable
+recipe_assault,33,16,1300,48.48,48.48%,Assault Cuirass Recipe,Средние (501-1500),
+relic,30,14,3400,46.67,46.67%,Sacred Relic,Очень дорогие (>3000),secret_shop
+recipe_orchid,28,16,450,57.14,57.14%,Orchid Malevolence Recipe,Дешевые (≤500),
+ring_of_regen,27,17,175,62.96,62.96%,Ring of Regen,Дешевые (≤500),component
+recipe_silver_edge,26,15,250,57.69,57.69%,Silver Edge Recipe,Дешевые (≤500),
+recipe_bloodthorn,25,14,450,56.0,56.0%,Bloodthorn Recipe,Дешевые (≤500),
+recipe_shivas_guard,23,9,2050,39.13,39.13%,Shiva's Guard Recipe,Дорогие (1501-3000),
+recipe_devastator,21,7,400,33.33,33.33%,Parasma Recipe,Дешевые (≤500),
+recipe_wind_waker,19,9,1400,47.37,47.37%,Wind Waker Recipe,Средние (501-1500),
+recipe_swift_blink,18,7,1750,38.89,38.89%,Swift Blink Recipe,Дорогие (1501-3000),
+recipe_pipe,17,9,700,52.94,52.94%,Pipe of Insight Recipe,Средние (501-1500),
+recipe_mjollnir,15,5,550,33.33,33.33%,Mjollnir Recipe,Средние (501-1500),
+pavise,14,8,1400,57.14,57.14%,Pavise,Средние (501-1500),rare
+recipe_aeon_disk,12,6,1200,50.0,50.0%,Aeon Disk Recipe,Средние (501-1500),
+recipe_lesser_crit,10,5,200,50.0,50.0%,Crystalys Recipe,Дешевые (≤500),
+recipe_gungir,10,7,1100,70.0,70.0%,Gleipnir Recipe,Средние (501-1500),
+recipe_disperser,10,7,800,70.0,70.0%,Disperser Recipe,Средние (501-1500),
+recipe_black_king_bar,9,5,1450,55.56,55.56%,Black King Bar Recipe,Средние (501-1500),
+recipe_arcane_blink,8,3,1750,37.5,37.5%,Arcane Blink Recipe,Дорогие (1501-3000),
+recipe_hurricane_pike,8,5,350,62.5,62.5%,Hurricane Pike Recipe,Дешевые (≤500),
+recipe_overwhelming_blink,8,6,1750,75.0,75.0%,Overwhelming Blink Recipe,Дорогие (1501-3000),
+recipe_ultimate_scepter_2,7,3,1600,42.86,42.86%,Aghanim's Blessing Recipe,Дорогие (1501-3000),
+recipe_rod_of_atos,7,3,250,42.86,42.86%,Rod of Atos Recipe,Дешевые (≤500),
+black_grimoire,6,3,0,50.0,50.0%,Black Grimoire,Бесплатные,
+recipe_glimmer_cape,6,1,350,16.67,16.67%,Glimmer Cape Recipe,Дешевые (≤500),
+recipe_phylactery,6,5,300,83.33,83.33%,Phylactery Recipe,Дешевые (≤500),
+recipe_bfury,6,2,600,33.33,33.33%,Battle Fury Recipe,Средние (501-1500),
+recipe_force_staff,4,3,950,75.0,75.0%,Force Staff Recipe,Средние (501-1500),
+recipe_manta,4,4,1550,100.0,100.0%,Manta Style Recipe,Дорогие (1501-3000),
+recipe_angels_demise,4,3,1300,75.0,75.0%,Khanda Recipe,Средние (501-1500),
+recipe_heavens_halberd,4,2,450,50.0,50.0%,Heaven's Halberd Recipe,Дешевые (≤500),
+aghanims_shard,3,1,1400,33.33,33.33%,Aghanim's Shard,Средние (501-1500),rare
+recipe_dagon,3,0,1150,0.0,0.0%,Dagon Recipe,Средние (501-1500),
+recipe_witch_blade,3,1,250,33.33,33.33%,Witch Blade Recipe,Дешевые (≤500),
+recipe_eternal_shroud,3,1,900,33.33,33.33%,Eternal Shroud Recipe,Средние (501-1500),
+recipe_guardian_greaves,3,2,1450,66.67,66.67%,Guardian Greaves Recipe,Средние (501-1500),
+recipe_abyssal_blade,2,1,1275,50.0,50.0%,Abyssal Blade Recipe,Средние (501-1500),
+recipe_blade_mail,2,1,750,50.0,50.0%,Blade Mail Recipe,Средние (501-1500),
+recipe_mekansm,2,2,800,100.0,100.0%,Mekansm Recipe,Средние (501-1500),
+recipe_sange,2,1,650,50.0,50.0%,Sange Recipe,Средние (501-1500),
+recipe_headdress,2,2,250,100.0,100.0%,Headdress Recipe,Дешевые (≤500),
+recipe_ethereal_blade,2,1,1600,50.0,50.0%,Ethereal Blade Recipe,Дорогие (1501-3000),
+recipe_kaya,2,2,650,100.0,100.0%,Kaya Recipe,Средние (501-1500),
+recipe_pavise,2,1,175,50.0,50.0%,Pavise Recipe,Дешевые (≤500),
+royale_with_cheese,2,1,2,50.0,50.0%,Block of Cheese,Дешевые (≤500),consumable
+recipe_crimson_guard,2,1,1050,50.0,50.0%,Crimson Guard Recipe,Средние (501-1500),
+recipe_yasha,2,1,650,50.0,50.0%,Yasha Recipe,Средние (501-1500),
+recipe_wraith_band,2,0,210,0.0,0.0%,Wraith Band Recipe,Дешевые (≤500),
+recipe_ring_of_basilius,1,1,250,100.0,100.0%,Ring of Basilius Recipe,Дешевые (≤500),
+recipe_buckler,1,0,250,0.0,0.0%,Buckler Recipe,Дешевые (≤500),
+recipe_diffusal_blade,1,0,1050,0.0,0.0%,Diffusal Blade Recipe,Средние (501-1500),
+recipe_dragon_lance,1,1,450,100.0,100.0%,Dragon Lance Recipe,Дешевые (≤500),
+recipe_boots_of_bearing,1,1,1700,100.0,100.0%,Boots of Bearing Recipe,Дорогие (1501-3000),
+recipe_harpoon,1,0,1000,0.0,0.0%,Harpoon Recipe,Средние (501-1500),
+recipe_arcane_boots,1,0,475,0.0,0.0%,Arcane Boots Recipe,Дешевые (≤500),
+recipe_basher,1,1,825,100.0,100.0%,Skull Basher Recipe,Средние (501-1500),
+recipe_cyclone,1,1,675,100.0,100.0%,Eul's Scepter Recipe,Средние (501-1500),
+recipe_veil_of_discord,1,1,300,100.0,100.0%,Veil of Discord Recipe,Дешевые (≤500),
+recipe_travel_boots,1,1,2000,100.0,100.0%,Boots of Travel Recipe,Дорогие (1501-3000),
+tango_single,1,0,30,0.0,0.0%,Tango (Shared),Дешевые (≤500),consumable

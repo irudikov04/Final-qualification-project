@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Чтение и обработка JSON
-with open('Items.json', 'r', encoding='utf-8') as file:
+with open('Items_id.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Создание DataFrame с нужными названиями столбцов
